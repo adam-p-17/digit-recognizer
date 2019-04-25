@@ -1,0 +1,10 @@
+input/
+model.png
+model_2.png
+digit_recognizer.h5
+digit_recognizer_2.h5
+cnn_mnist_datagen.csv
+cnn_mnist_datagen_2.csv
+main.py
+.idea/
+.ipynb_checkpoints/
